@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a6b3ff,50:4b5fcc,100:020e52&height=300&section=header&text=Chaen&fontSize=90&fontColor=ff00b7&fontAlignY=30&fontAlign=75&desc=github&descSize=55&descAlign=82)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:aa9bd4,50:8669D4,100:5f36cf&height=300&section=header&text=Chaen&fontSize=90&fontColor=93FFD2&fontAlignY=30&fontAlign=75&desc=github&descSize=55&descAlign=82)
 </div>
 
 #
