@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a6b3ff,50:4b5fcc,100:020e52&height=300&section=header&text=Chaen&fontSize=90&fontColor=ff00b7&fontAlignY=30&fontAlign=75&desc=github&descSize=55&descAlign=82)
 </div>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 ### Hi there 👋 I'm Chaen Lim
 
