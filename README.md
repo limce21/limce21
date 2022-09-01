@@ -17,7 +17,7 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limce21&show_icons=true&theme=aura)![Top Langs]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limce21&show_icons=true&theme=aura)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limce21&theme=aura)
 #
 
 
