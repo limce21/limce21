@@ -18,7 +18,7 @@
 
 #
 
-![Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=limce21&show_icons=true&theme=great-gatsby)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limce21&theme=great-gatsby)
+![Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=limce21&show_icons=true&theme=omni)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limce21&theme=omni)
 #
 
 
