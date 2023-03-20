@@ -1,9 +1,8 @@
-<div align="center">
 
 
 <!--   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F94892,50:FF7F3F,100:FBDF07&height=300&section=header&text=Chaen&fontSize=90&fontColor=FFFFFF&fontAlignY=30&fontAlign=75&desc=github&descSize=55&descAlign=82) -->
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChaenLim&fontSize=90)
-</div>
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&text=Hi&animation=fadeIn&desc=Chaen%20Lim&textBg=true&descColor&descAlign=60&fontAlign=40&fontAlignY=50&descSize=40&descAlignY=50)
+
   
 #### Front Stacks 🎀 : &nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp;&nbsp;<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 
