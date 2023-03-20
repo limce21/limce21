@@ -22,3 +22,7 @@
 - 🌱 피로그래밍 18기 운영진 (2022.09 ~ 2023.02)
 - 🤖 헬퍼 로보틱스 SW 엔지니어 현장 실습 인턴 (2022.12 ~ 2023.02)
 
+<br />
+<hr />
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limce21)](https://solved.ac/limce21/) <a href="https://github.com/limce21"><img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limce21&layout=compact&theme=buefy&hide_border=true" /></a> 
