@@ -12,7 +12,6 @@
 
 #### Notes 📝 : &nbsp;&nbsp;<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
-<br />
 <hr />
 
 ### My Activities
@@ -23,7 +22,6 @@
 - 💻 SK텔레콤 FLY AI 3기 (2023.06 ~ 2023.09)
 - 💚 교보생명 sw개발 사원 (2024.01 ~ )
 
-<br />
 <hr />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limce21)](https://solved.ac/limce21/) <a href="https://github.com/limce21"><img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limce21&layout=compact&theme=buefy&hide_border=true" /></a> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limce21)](https://solved.ac/limce21/)
